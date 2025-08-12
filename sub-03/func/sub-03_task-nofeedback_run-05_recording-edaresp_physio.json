@@ -1,0 +1,9 @@
+{
+"SamplingFrequency": 2000.0,
+"StartTime": -55.9526,
+"Columns": [
+"resp",
+"eda",
+"trigger"
+]
+}
