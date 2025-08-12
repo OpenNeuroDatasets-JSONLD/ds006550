@@ -9,5 +9,8 @@
         "Rainer Goebel",
         "Miguel Castelo-Branco"
     ],
-    "License": "CC0"
+    "License": "CC0",
+    "Funding": [
+        "FCT Portuguese National Funding Agency for Science, Research and Technology."
+    ]
 }
