@@ -1,5 +1,13 @@
 {
-	"Name": "ACCsubregions_data",
-	"BIDSVersion": "1.8.0",
-	"Authors": ["Camila Dias", "Teresa Sousa", "Assunta Ciarlo", "Michael Lührs", "Rainer Goebel", "Miguel Castelo-Branco"]
+    "Name": "ACCsubregions_data",
+    "BIDSVersion": "1.8.0",
+    "Authors": [
+        "Camila Dias",
+        "Teresa Sousa",
+        "Assunta Ciarlo",
+        "Michael Lührs",
+        "Rainer Goebel",
+        "Miguel Castelo-Branco"
+    ],
+    "License": "CC0"
 }
