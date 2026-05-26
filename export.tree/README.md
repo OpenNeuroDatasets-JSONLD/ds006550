@@ -1,2 +1,0 @@
-Data used in the study "Parcellation of the anterior cingulate cortex error monitoring circuitry revealed by a functional reversal point".
-We conducted an ultra-high-field (7T) fMRI study in which ten participants performed three variations of a fast-response task. These task variations were designed to dissociate subregional ACC involvement in error commission, feedback processing, and error observation.
