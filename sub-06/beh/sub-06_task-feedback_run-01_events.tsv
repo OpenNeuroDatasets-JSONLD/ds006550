@@ -1,4 +1,4 @@
-onset	duration	trial_type	stimulus_type
+onset	duration	trial_type	stim_id
 9.5	0.5	Instruction	7
 14.1	0	Error_f	7
 16.5	0.5	Fdbck_err	7
