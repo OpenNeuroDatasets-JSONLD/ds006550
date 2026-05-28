@@ -1,4 +1,4 @@
-onset	duration	trial_type	stimulus_type
+onset	duration	trial_type	stim_id
 9	0.5	Instruction	9
 11.2	0	Error	9
 16	0.5	Instruction	1
